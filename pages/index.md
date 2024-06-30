@@ -3,7 +3,6 @@ layout: default
 footer: true
 permalink: /
 home_btn: false
-collection_list: true
 ---
 
 <img src="/src/assets/img/favicon.png" style="background-color:transparent; width: 256px;">
