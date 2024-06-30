@@ -23,6 +23,7 @@ codekit-config.json
 .Spotlight-V100
 .Trashes
 Thumbs.db
+*:Zone.Identifier
 
 # Emacs
 *~

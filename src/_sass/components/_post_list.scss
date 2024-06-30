@@ -1,7 +1,7 @@
 // post-list
 .post_list {
   .td_title {
-    text-transform: capitalize;
+    text-transform: none;
     @include simple_link_style;
   }
   .td_date {
