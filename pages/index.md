@@ -7,7 +7,7 @@ home_btn: false
 
 <img src="/src/assets/img/favicon.png" style="background-color:transparent; width: 256px;">
 
-# wirtualna persona Rytmikarza Szczecińskiego - strona główna
+# Rytmikarz Szczeciński - strona główna
 
 > lokalna społeczność graczy gier rytmicznych - tak, istniejemy
 
@@ -22,6 +22,7 @@ Rytmikarz Szczeciński to grupka graczy zapaleńców, którzy po wielu latach sa
 - gramy w gry
 - budujemy kontrolery
 - ratujemy gruz z Japonii
+- hackujemy mainframe
 - ~~przejmujemy kontrolę nad konwentami~~
 - zapewniamy, że w Szczecinie ktoś gra w rytmiki
 
