@@ -16,4 +16,6 @@
 
 .far,
 .fa-regular {
-  font-weight: 400; }
+  /* wykomentowane, bo wpływa na tekst obok ikonki */
+  /* font-weight: 400;  */
+}

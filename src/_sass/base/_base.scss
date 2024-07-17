@@ -2,7 +2,7 @@
 body {
   line-height: 1.75;
   font-size: $font-size-primary;
-  color: $color-primary;
+  color: $color-text;
   font-family: $font-serif;
 }
 h1 {
@@ -42,8 +42,8 @@ p {
   display: block;
 }
 strong {
-  color: mix($color-primary, rgba(#ddd, 1));
-  -webkit-text-stroke: 0.5px $color-primary;
+  color: $color-text;
+  // -webkit-text-stroke: 0.5px $color-primary;
   // text-shadow: 0.35px 0.35px 0 $color-primary;
 }
 hr {
@@ -74,13 +74,15 @@ button {
 }
 // links
 a {
-  color: $color-primary;
-  text-decoration: underline dotted rgba($color-primary, 0.4);
+  color: $color-link;
+  text-decoration: underline dotted rgba($color-primary, 0.8);
 }
 a:hover {
-  color: $color-secondary;
-  text-decoration: none;
+  text-decoration: none !important;
+  font-weight: inherit;
+  color: $color-secondary !important;
   cursor: pointer;
+  text-shadow: 0 0 4px $color-secondary;
 }
 img {
   max-width: 95%;
@@ -147,7 +149,7 @@ article {
     padding: 0 0.3em;
   }
   a:hover {
-    font-weight: bold;
+    // font-weight: bold;
   }
 }
 // markdown style reset: keyword

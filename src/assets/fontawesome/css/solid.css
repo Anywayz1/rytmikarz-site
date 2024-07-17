@@ -16,4 +16,6 @@
 
 .fas,
 .fa-solid {
-  font-weight: 900; }
+  /* wykomentowane, bo wpływa na tekst obok ikonki */
+  /* font-weight: 900;  */
+}

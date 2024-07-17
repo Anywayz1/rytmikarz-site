@@ -28,13 +28,8 @@ Rytmikarz Szczeciński to grupka graczy zapaleńców, którzy po wielu latach sa
 
 ## Obecny highlight
 
-- [sala na Mizukonie 2024](/mizukon2024)
+- [sala na Mizukonie 2024 (zawiera posłowie)](/wydarzenia/mizukon-2024)
 
-## Przeszłe highlighty
+## Pozostałe highlighty
 
-- samoróbkon SDVX ze skrzynki po mandarynkach
-- pół-spontaniczny RytmiKon trip
-- samoróbkon IIDX z pudełek do decoupage
-- samoróbkon Ongeki typu porządny (arcade size)
-- regularne spotkania na granie w domu i na mieście
-- more to come...
+Jeśli interesują Cię nasze poprzednie akcje, konstrukcje, przemyślenia - zajrzyj do **Archiwum X**. Otworzysz je ikoną w lewym górnym rogu tej strony.

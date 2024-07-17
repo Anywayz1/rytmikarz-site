@@ -5,7 +5,8 @@
  */
 .fa {
   font-family: var(--fa-style-family, "Font Awesome 6 Free");
-  font-weight: var(--fa-style, 900); }
+  /* wykomentowane, bo wpływa też na zawartość obok ikonki */
+  /* font-weight: var(--fa-style, 900); */} 
 
 .fa,
 .fa-classic,
