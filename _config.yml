@@ -7,7 +7,7 @@ permalink           : /:title/
 description         : "lokalna społeczność graczy gier rytmicznych"
 markdown            : kramdown
 statement           : "MAIN IC BOARD: ERROR"
-bgtext              : "Rytmikarz~Szczeciński~" # texts randomly displayed in background
+bgtext              : "Rytmikarz Szczeciński " # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
@@ -20,13 +20,13 @@ collection_order    :
 collections:
   wydarzenia:   
     output          : true
-    permalink       : /:collection/:title/
-    sort_by         : last_updated
+    permalink       : /:collection/:title
+    sort_by         : date
     alias           : "wydarzenia (info i blogi)"
   druciarstwo:   
     output          : true
-    permalink       : /:collection/:title/
-    sort_by         : last_updated
+    permalink       : /:collection/:title
+    sort_by         : date
     alias           : "druciarstwo (nasze konstrukcje)"
   posts:
     output: false
@@ -49,7 +49,7 @@ defaults:
       encrypted_text      : false       # whether use encrytion function by default
       toc                 : false        # whether show table of content by default
       toc_level           : 3           # the toc depth by default
-      author              : "Rytmikarz Szczeciński" # author name by default
+      author              : "Rytmikarz" # author name by default
       show_date           : false        # whether show date message by default
       category            :             # category by default
       post_list           : false       # whether show list of post by default      

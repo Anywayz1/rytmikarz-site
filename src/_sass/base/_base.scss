@@ -75,7 +75,7 @@ button {
 // links
 a {
   color: $color-link;
-  text-decoration: underline dotted rgba($color-primary, 0.8);
+  text-decoration: underline rgba($color-primary, 0.8);
 }
 a:hover {
   text-decoration: none !important;
@@ -146,7 +146,7 @@ code {
 }
 article {
   a {
-    padding: 0 0.3em;
+    // padding: 0 0.3em;
   }
   a:hover {
     // font-weight: bold;
@@ -160,6 +160,12 @@ article .language-plaintext {
   -webkit-text-stroke: 0.5px $color-primary; // stroke text
   // text-shadow: -0.4px -0.4px 0 rgb(233, 255, 135), 0.4px 0.4px 0 rgb(48, 253, 59),
     // 0.4px 0.4px 0 rgb(95, 99, 65);
+}
+
+// dodane na poczet czytelności postów Rytmikarza
+// potencjalnie do ograniczenia klasą na typ wpisu "post"
+article>p{
+  margin-bottom: 12px;
 }
 // markdown style reset: checkbox
 input[type="checkbox"] {
