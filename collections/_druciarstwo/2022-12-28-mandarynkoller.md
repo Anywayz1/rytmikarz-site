@@ -76,7 +76,7 @@ No ale tak czy siak - elektronika.
 
 ## Tak czy siak, elektronika!
 
-Skorzystałem z gotowca - [Pico Game Controller](https://github.com/speedypotato/Pico-Game-Controller). Zarobiłem wtyczki (oczywiście, że nie mam zaciskari, więc było lutowane), podłączyłem na razie same przyciski i pokrętła (bez światełek). Całość zadziałała praktycznie na strzała. Z jednym drobnym wyjątkiem - pokrętłami :,(
+Skorzystałem z gotowca - [Pico Game Controller](https://github.com/speedypotato/Pico-Game-Controller). Zarobiłem wtyczki (oczywiście, że nie mam zaciskari, więc było lutowane), podłączyłem na razie same przyciski i pokrętła (początkowo bez światełek, ale te potem też dodałem). Całość zadziałała praktycznie na strzała. Z jednym drobnym wyjątkiem - pokrętłami :,(
 
 |![](/src/assets/druciarstwo/mandarynkoller/pipico.jpg){: style="max-height: 320px;"}|![](/src/assets/druciarstwo/mandarynkoller/spaget.jpg){: style="max-height: 320px;"}|
 |<center>Pi Pico początkowo na złączkach</center>|<center>ostatecznie polutowałem na sztywno<br><small>(i piękny wgląd w spaghetti)</small></center>|
