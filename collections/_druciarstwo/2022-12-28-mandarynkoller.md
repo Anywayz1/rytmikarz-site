@@ -12,7 +12,7 @@ image: /src/assets/druciarstwo/mandarynkoller/wszystkie-guziory-i-galy.jpg
 
 *Data publikacji tego postu została ustawiona na datę zakończenia prac nad opisywanym stanem opisywanego cuda techniki. Sam tekst był pisany na początku września 2024.*
 
-## In the beninging
+## [In the beninging](https://www.youtube.com/watch?v=JqHaJkIvz0Q)
 
 No więc całość zaczęła się chyba od konwentu Hikari 2021. Wcześniej byłem świadomy istnienia rytmików i czym mniej-więcej jest Bemani. Ba, parę ładnych lat śliniłem się na FB9 od Gamo2 (kontroler do Jubeata). Niemniej, dopiero na tym konwencie zobaczyłem mnóstwo innych japońskich rytmików. Na tym konwencie zagrałem też pierwszy raz w StepManię na twardej macie i w IIDXa w ogóle, ale to historie na inne wpisy w kategorii "druciarstwo" ;)
 
@@ -28,7 +28,7 @@ Na Hikari 2022, jedna z osób odpowiedzialnych za rytmiki zasugerowała mi "spr�
 
 
 
-Ostatecznie nie było to zbyt grywalne, ale pozwoliło poklikać w grę. Niegrywalność wynikała głównie z rozmiarów i z "twardości" tego pada (faktyczny guzik jednak trochę amortyzuje uderzenia). Pogooglałem - dedykowane gotowe opcje okazały się jeszcze wtedy zaporowo drogie (Gamo2/Yuan/KOC), więc wziąłem sprawy we własne ręce i... pogooglałem dalej. Zamówiłem przyciski, enkodery (chociaż to po polsku enkoder to chyba *impulsator*) oraz pokrętła dla <del>pedo</del>audiofili z AliExpress, a drobną elektronikę pozyskałem lokalnie. Problemem okazała się być... **obudowa**!
+Ostatecznie nie było to zbyt grywalne, ale pozwoliło poklikać w grę. Niegrywalność wynikała głównie z rozmiarów i z "twardości" tego pada (faktyczny guzik jednak trochę amortyzuje uderzenia). Pogooglałem - dedykowane gotowe opcje okazały się jeszcze wtedy zaporowo drogie (Gamo2/Yuan/KOC), więc wziąłem sprawy we własne ręce i... pogooglałem dalej. Zamówiłem przyciski, enkodery (chociaż po polsku enkoder to chyba *impulsator*) oraz pokrętła dla <del>pedo</del>audiofili z AliExpress, a drobną elektronikę pozyskałem lokalnie. Problemem okazała się być... **obudowa**!
 
 ## Ev'ry Night
 
