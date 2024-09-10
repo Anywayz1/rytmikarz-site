@@ -4,7 +4,8 @@ author: Mary
 show_date: true
 layout: post
 abstract: czyli kontroler do Sound Voltex wykonany ze skrzynki po mandarynkach
-imgt: "img/sdvx-mpd.jpg"
+excerpt: czyli kontroler do Sound Voltex wykonany ze skrzynki po mandarynkach
+image: /src/assets/druciarstwo/mandarynkoller/wszystkie-guziory-i-galy.jpg
 ---
 
 ## Przedsłowie
