@@ -2,7 +2,7 @@
 title               : Rytmikarz Szczeciński
 owner               : false
 url                : "https://rytmikarz.pl"
-baseurl            : "/"
+baseurl            : ""
 permalink           : /:title/
 description         : "lokalna społeczność graczy gier rytmicznych"
 markdown            : kramdown
