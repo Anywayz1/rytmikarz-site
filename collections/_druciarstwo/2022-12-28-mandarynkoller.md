@@ -100,7 +100,7 @@ Przyciski z Aliexpress w zestawie miały te swoje chińskie niebieskie switche. 
 Próbka audio:
 
 <audio controls>
-  <source src="/src/assets/druciarstwo/mandarynkoller/congameplay.jpg" type="audio/mpeg">
+  <source src="/src/assets/druciarstwo/mandarynkoller/congameplay.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
