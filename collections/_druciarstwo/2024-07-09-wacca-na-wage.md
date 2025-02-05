@@ -1,21 +1,35 @@
 ---
 title: Wacca na wagę
+author: Alis (i Dait)
+show_date: true
 layout: post
 abstract: czyli jak pozyskać caba tak, żeby nikt się nie zorientował<br>Ja też się nie zorientowałem ~Mary
+excerpt: czyli jak pozyskać caba tak, żeby nikt się nie zorientował
 ---
+
+## Kilka słów wstępu
+
+Miał być wstęp, ale nie jestem dobra we wstępy, więc …
+
+<img src="https://media1.tenor.com/m/NXMs9_FlGpcAAAAC/rage-emoji-rage.gif" width="100" />
+
 
 ## Grudzień 2023
 
 
-Kilka miesięcy temu zgodziłam się być tour guidem dla znajomego z Genshin’a, który przy okazji wycieczki po Europie chciał zobaczyć kawałek Polski. Nadszedł więc czas wyboru miasta - no i chcąc nie chcąc trafiło na Kraków. Dalej ze Szczecina jest już chyba tylko Rzeszów, ale w przeciwieństwie do Rzeszowa, czy innych miast, Kraków poza byciem poprzednią stolicą Polski, ma także taki cud natury jak “Arcade Game Museum”, i to z grami rytmicznymi! Ja osobiście tam nigdy nie byłam, a Dait (który jakoś tak się wydarzyło, że też miał dołączyć do wycieczki) był tam wcześniej raz. 
+Kilka miesięcy temu zgodziłam się być przewodnikiem dla znajomego z Genshina, który przy okazji wycieczki po Europie chciał zobaczyć kawałek Polski. Nadszedł więc czas wyboru miasta - no i chcąc nie chcąc trafiło na Kraków. Dalej od Szczecina jest już chyba tylko Rzeszów, ale w przeciwieństwie do Rzeszowa, czy innych miast, Kraków poza byciem poprzednią stolicą Polski, ma także taki cud natury jak “Arcade Game Museum”, i to z grami rytmicznymi! Ja osobiście tam nigdy nie byłam, a Dait (który jakoś tak się wydarzyło, że też miał dołączyć do wycieczki) był tam wcześniej raz. 
 
-Zaraz po świętach Bożego Narodzenia, wpadł do nas kolega, a potem ruszyliśmy do Krakowa zwiedzać arcade muzeum. Na samiutkim wejściu stał automat, na który Dait bardzo bardzo czekał, i nie udało mu się ostatnim razem na niego załapać - Wacca. No fajne, świeci się, taka oversized pralka. Pograliśmy trochę, i nie wiem dlaczego padło pytanie “ej ciekawe ile to kosztuje”. Chwilę później siedziałam już z telefonem w ręku (nadal siedząc w kolejce do zagrania w Wacce) przeglądając aukcje w Japonii …
+Zaraz po świętach Bożego Narodzenia, wpadł do nas owy kolega, a potem ruszyliśmy do Krakowa zwiedzać muzeum arcade. Na samiutkim wejściu stał automat, na który Dait bardzo bardzo czekał, i nie udało mu się ostatnim razem na niego załapać - Wacca. No fajne, świeci się, taka oversized pralka. Pograliśmy trochę, i nie wiem dlaczego padło pytanie “*ej ciekawe ile to kosztuje*”. Chwilę później siedziałam już z telefonem w ręku (nadal siedząc w kolejce do zagrania w Waccę) przeglądając japońskie aukcje …
 
 … i niestety wpadliśmy na pewien **bardzo** głupi pomysł.
 
-Dwa dni później, w okolicach południa odstawiliśmy kolegę na dworzec, a sami zamiast ruszyć w kierunku Szczecina (biorąc pod uwagę, że mamy jakieś 7h drogi samochodem do domu), ruszyliśmy w stronę arcade muzeum. Trochę, żeby pograć, a trochę w innym celu - z muzeum wyszliśmy, jak już musieli nas wyganiać, a o 6 nad ranem dotarliśmy do domu. 
+Dwa dni później, w okolicach południa odstawiliśmy kolegę na dworzec, a sami zamiast ruszyć w kierunku Szczecina (biorąc pod uwagę, że mamy jakieś 7h drogi samochodem do domu), ruszyliśmy w stronę muzeum arcade. Trochę, żeby pograć, a trochę w innym celu - z muzeum wyszliśmy, jak już musieli nas wyganiać, więc do domu dotarliśmy dopiero o 6 nad ranem. 
 
 ## Styczeń 2024
+
+Początkowy plan zakładał, że uprawiamy druciarstwo na poziomie wysoko zaawansowanym, i że poza panelami dotykowymi (których odtworzenie zajęło by o wiele za dużo czasu po wstępnym researchu) wszystko ogarniemy sami.
+
+Na szczęście, zupełnym przypadkiem, udało nam się odkryć, że była możliwość kupienia innych elementów z rozbiórki automatów w Japonii. Skłamałabym, że był to proces szybki, tani i bezproblemowy, bo na przeszukiwaniu aukcji spędziliśmy około miesiąca, a ostatni element został zakupiony już po tym, jak mogliśmy grać w Waccę w domu.
 
 <center>
 <div markdown="1">
@@ -25,12 +39,9 @@ Dwa dni później, w okolicach południa odstawiliśmy kolegę na dworzec, a sam
 </div>
 </center>
 
-Początkowy plan zakładał, że uprawiamy druciarstwo na poziomie wysoko zaawansowanym, i że poza panelami dotykowymi (których odtworzenie zajęło by o wiele za dużo czasu po wstępnym researchu) wszystko ogarniemy sami.
-
-Na szczęście, zupełnym przypadkiem, udało nam się odkryć, że była możliwość kupienia innych elementów z rozbiórki automatów w Japonii. Skłamałąbym, że był to proces szybki, tani i bezproblemowy, bo na przeszukiwaniu aukcji spędziliśmy około miesiąca, a ostatni element został zakupiony już po tym, jak mogliśmy grać w Wacce w domu.
-
 ## Marzec 2024
 
+Od momentu zakupienia różnych elementów, do czasu aż pojawiły się w naszym domu, prawie ciągle siedzieliśmy nad tematem - szukając w necie czy to zdjęć, czy informacji. Cała sztuczka polegała na tym, że kompletnie **nikomu** nie powiedzieliśmy o tym, co zrobiliśmy. Obiecaliśmy sobie, że będzie to nasza mała tajemnica - nawet najbliżsi znajomi czy rodzina (poza moim tatą, który został wtajemniczony w celu pomocy ze spawaniem xD) nie wiedzieli totalnie **nic**.
 
 <center>
 <div markdown="1">
@@ -40,16 +51,15 @@ Na szczęście, zupełnym przypadkiem, udało nam się odkryć, że była możli
 </div>
 </center>
 
-Od momentu zakupienia różnych elementów, do czasu aż pojawiły się w naszym domu, prawie ciągle siedzieliśmy nad tematem - czy to szukając zdjęć w necie, czy informacji. Cała sztuczka polegała na tym, że kompletnie **nikomu** nie powiedzieliśmy o tym, co zrobiliśmy. Obiecaliśmy sobie, że będzie to nasza mała tajemnica - nawet najbliżsi znajomi czy rodzina (poza moim tatą, który został wtajemniczony w celu pomocy ze spawaniem xD) nie wiedzieli totalnie nic.
+<br>
 
 <center>
 <div markdown="1">
-|![](/src/assets/druciarstwo/wacca/unboxing1.JPG)|
+|![](/src/assets/druciarstwo/wacca/unboxing.JPG)|
 |<center>Happy unboxing</center>|
 {: style="max-width: 480px; display: inline-block;"}
 </div>
 </center>
-
 
 Kilka źródeł, które naprawdę ułatwiły nam pracę i pomogły zrozumieć, co jak z czym gada, na co szczególnie zwrócić uwagę itp.:
 
@@ -61,25 +71,22 @@ Dopiero pod koniec researchu udało nam się kupić gotowy IO board z automatu, 
 
 ## Kwiecień 2024
 
+Jaka to była ulga, jak po dłuższej walce z portami szeregowymi, ustawieniami samej gry itp. udało się Daitowi uruchomić grę, i nawet zagrać! Powyższe zdjęcie potwierdza także ponadczasowość mebli z PRL-u - rozkładana, podnoszona ława i komody idealnie sprawdziły się jako tymczasowa rama automatu.
 
 <center>
 <div markdown="1">
 |![](/src/assets/druciarstwo/wacca/tabletest.JPG)|
-|<center>Test setup z prawdziwego zdarzenia</center>|
+|<center>Test setup z prawdziwego zdarzenia. Poskładaliśmy dziada xD</center>|
 {: style="max-width: 720px; display: inline-block;"}
 </div>
 </center>
 
 
-Poskładaliśmy dziada xD
-
-Jaka to była ulga, jak po dłuższej walce z portami szeregowymi, ustawieniami samej gry itp. udało się Daitowi uruchomić grę, i nawet zagrać! Powyższe zdjęcie potwierdza także ponadczasowość mebli z PRL-u - rozkładana, podnoszona ława i komody idealnie sprawdziły się jako tymczasowa rama automatu.
-
 ## Czerwiec 2024
 
 
-Żaden projekt nie wychodzi dobrze, jeśli najpierw nie przeleży kilku miesięcy w kartonach. Wpadliśmy na super pomysł, że pokazanie automatu znajomym to nie jest najlepsze co możemy zrobić. Istnieje jeszcze lepsza opcja na premierę Waccy z przytupem. Zabrać go w tajemnicy na lokalny konwent M&A, na którym mieliśmy już zaplanowaną salę z innymi grami rytmicznymi. I zrobić to tak, żeby miesiąc przed imprezą nikt ze znajomych z Rytmikarza nie kapnął się co planujemy. Wacca dostała kryptonim “Cab do Chuni” - wszystko, co robiliśmy do Waccy, było pod przykrywką robienia tego do innego projektu, o którym kilka innych osób już wiedziało. 
-No i prace w końcu ruszyły na poważnie. Początkowo, cała rama miała być wyspawana z profili stalowych, żeby odwzorować oryginalną konstrukcję. Niestety pokryło się to z wyjazdem taty na wakacje (więc spawanie ramy było poza zasięgiem), a jedyną alternatywą jaką mieliśmy było… drewno. Podjechałam do lokalnego tartaku po kilka belek, wcześniej mówiąc Daitowi że “z drewna to ja ci to w jeden wieczór zrobię”. Jak rzekłam, tak się (no prawie) stało.
+Żaden projekt nie wychodzi dobrze, jeśli najpierw nie przeleży kilku miesięcy w kartonach. Wpadliśmy na super pomysł, że pokazanie automatu znajomym to nie jest najlepsze co możemy zrobić. Istnieje jeszcze lepsza opcja na premierę Wacci z przytupem. Zabrać ją w tajemnicy na lokalny konwent M&A - Mizukon (krótkie podsumowanie wydarzenia [tutaj](../wydarzenia/mizukon-2024)), na którym mieliśmy już zaplanowaną salę z innymi grami rytmicznymi. I zrobić to tak, żeby miesiąc przed imprezą nikt ze znajomych z Rytmikarza nie kapnął się co planujemy. Wacca dostała kryptonim “Cab do Chuni” - wszystko, co robiliśmy do Wacci, było pod przykrywką robienia tego do innego projektu, o którym kilka innych osób już wiedziało. 
+No i prace w końcu ruszyły na poważnie. Początkowo, cała rama miała być wyspawana z profili stalowych, żeby odwzorować oryginalną konstrukcję. Niestety pokryło się to z wyjazdem taty na wakacje (więc spawanie ramy było poza zasięgiem), a jedyną alternatywą jaką mieliśmy było… drewno. Podjechałam do lokalnego tartaku po kilka belek, wcześniej mówiąc Daitowi że “*z drewna to ja ci to w jeden wieczór zrobię*”. Jak rzekłam, tak się (no prawie) stało.
 
 <center>
 <div markdown="1">
@@ -92,7 +99,7 @@ Nie wiem, czy dwie osoby, które muszą się upewnić, że wszystko zgadza się 
 
 Kolejny etap był głównie moim zadaniem. Mogę z czystym sumieniem powiedzieć, że te kilka lat studiów jednak się do czegoś przydało, a widok miny panów na Hurtostali jak po odbiór zleconych elementów ze stali wysiada z samochodu baba, a nie chłop, był bezcenny :>
 
-Obudowa automatu była zaprojektowana na podstawie kilku stron z instrukcji serwisowej, niezliczonej ilości zdjęć i kilku skrzynek energetyków. Myślę, że zaprojektowanie wszystkiego, wyczarowanie brakujących wymiarów (dosłownie skanowaliśmy skanerem w drukarce niektóre elementy), zajęło mi mniej więcej 2 tygodnie czasu pracy full-time, nie wliczając w to czasu spędzonego na wysyłanie zapytań do firm tnących stal laserem, jeżdżenia po materiał itp.
+Obudowa automatu była zaprojektowana na podstawie kilku stron z instrukcji serwisowej, niezliczonej ilości zdjęć i kilku skrzynek energoli. Myślę, że zaprojektowanie wszystkiego, wyczarowanie brakujących wymiarów (dosłownie skanowaliśmy skanerem w drukarce niektóre elementy), zajęło mi mniej więcej 2 tygodnie czasu pracy full-time, nie wliczając w to czasu spędzonego na wysyłanie zapytań do firm tnących stal laserem, jeżdżenia po materiał itp.
 
 <center>
 <div markdown="1">
@@ -152,7 +159,7 @@ Obudowa automatu była zaprojektowana na podstawie kilku stron z instrukcji serw
 </div>
 </center>
 
-W tym momencie mieliśmy już praktycznie wszystko, żeby poskładać automat w całość. Poza drzwiczkami, które jeszcze były w trakcie wycinania, a dotarły do nas tak szybko, że kilka godzin przed premierą Waccy dla znajomych stały jeszcze na balkonie świeżo pomalowane.
+W tym momencie mieliśmy już praktycznie wszystko, żeby poskładać automat w całość. Poza drzwiczkami, które jeszcze były w trakcie wycinania, a dotarły do nas tak szybko, że kilka godzin przed premierą Wacci dla znajomych stały jeszcze na balkonie świeżo pomalowane.
 
 
 <center>
@@ -178,17 +185,15 @@ W tym momencie mieliśmy już praktycznie wszystko, żeby poskładać automat w 
 <center>
 <div markdown="1">
 |![](/src/assets/druciarstwo/wacca/15.JPG)|
-|Pierwszy krzyk dziecka, zdjęcie które słychać. Jeśli nie wiecie, jak brzmi error sound Waccy, to **[tutaj](https://www.youtube.com/watch?v=mIAHzflpNC4)** jest próbka|
+|Pierwszy krzyk dziecka, zdjęcie które słychać. Jeśli nie wiecie, jak brzmi error sound Wacci to **[tutaj](https://www.youtube.com/watch?v=mIAHzflpNC4)** jest próbka|
 {: style="max-width: 480px; display: inline-block;"}
 </div>
 </center>
 
 
-
-
 Całość udało się złożyć o 3:30 nad ranem. Pierwsza zagrana piosenka - Invisible Frenzy, bo poprzedniej nocy śniło mi się, że właśnie to gramy, tylko coś nie tak było z chartem. Rzekłabym proroczy sen, na szczęście z piosenką było wszystko ok xD
 
-A taki widok czekał nas kolejnego dnia rano w salonie
+A taki widok czekał nas kolejnego dnia rano w salonie:
 
 <center>
 <div markdown="1">
@@ -242,7 +247,17 @@ Wyjątkowy dzień, bo tak się idealnie złożyło, że tego dnia mam urodziny. 
 ## Konwent Mizukon 2024
 
 
-Nadszedł **ten** dzień. Rozmontowaliśmy automat na części, i na kilka kursów autami osobowymi zawieźliśmy automat na con-place, nie mówiąc nic organizatorom. Zdziwienie ludzi było niesamowite, jedni zastanawiali się jak udało nam się namówić kogoś na pożyczenie automatu, albo czy to ten z muzeum w Krakowie. Gdyby nie odwrotnie zrobione drzwiczki, nikt by się nie domyślił, że nie jest to automat kupiony w całości, a wiele osób nawet nie zakładało możliwości, że jest to coś co zbudowaliśmy sami, kupując “elektro-gruz z Japonii na wagę”.
+Nadszedł **ten** dzień. Rozmontowaliśmy automat na części i na kilka kursów autami osobowymi zawieźliśmy automat na con-place, nie mówiąc nic organizatorom. Zdziwienie ludzi było niesamowite, wiele osób zastanawiało się kogo udało nam się namówić na pożyczenie automatu albo gdzie go kupiliśmy. Gdyby nie odwrotnie zrobione drzwiczki, nikt by się nie domyślił, że nie jest to automat kupiony w całości, a wiele osób nawet nie zakładało możliwości, że jest to coś co zbudowaliśmy sami, sprowadzając “elektro-gruz z Japonii na wagę”.
+
+<center>
+<div markdown="1">
+|![](/src/assets/druciarstwo/wacca/touran.jpg)|
+|<center>Transport Wacci w (prawie) jednym kawałku</center>|
+{: style="max-width: 480px; display: inline-block;"}
+</div>
+</center>
+
+<br>
 
 <center>
 <div markdown="1">
@@ -254,11 +269,12 @@ Nadszedł **ten** dzień. Rozmontowaliśmy automat na części, i na kilka kurs�
 ## Kilka słów podsumowania
 
 
-Żadne z nas nie sądziło, że świąteczny wyjazd do Krakowa skończy się kilka miesięcy później Wacca w domu. Chyba nikt o zdrowych zmysłach nie stwierdził by w przeciągu kilku godzin od zagrania w grę pierwszy raz, że fajnie byłoby spróbować zrobić takie sobie samemu, w domu. Na szczęście my zdrowe zmysły straciliśmy dobre kilka lat temu. 
-Czy jest to opłacalne? Kompletnie nie. Dużo taniej wyszło by nas zakupienie automatu, poczekanie kilku miesięcy, i cieszenie się grą. Ilość czasu, materiałów, nerwów, kombinowania, nie może być w żaden sposób zmierzona wartością pieniądza. To, czego nauczyliśmy się podczas naszej przygody z Wacca jest bezcenne, i otworzyło nam furtki do kolejnych projektów. Pokazało, że jeśli podejdzie się do rzeczy odpowiednio, to domowy “kontroler” nie musi wyglądać jak domowy kontroler. Nauczyliśmy się także, że umiemy ze sobą współpracować. Ja w żadnym wypadku nie znam się tak dobrze jak Dait na elektronice i programowaniu, za to byłam w stanie pomóc ze wszystkim CAD-related, zamawianiem i realizacją rzeczy do obudowy, malowaniem, researchem, no te typowo babskie (xD) zadania, i bez pomocy osoby z doświadczeniem “kabelkowo - programistycznym” nie dałabym rady tego poskładać.
+Żadne z nas nie sądziło, że świąteczny wyjazd do Krakowa skończy się kilka miesięcy później Waccą w domu. Chyba nikt o zdrowych zmysłach nie stwierdził by w przeciągu kilku godzin od zagrania w grę pierwszy raz, że fajnie byłoby spróbować zrobić takie sobie samemu, w domu. Na szczęście my zdrowe zmysły straciliśmy dobre kilka lat temu.
+
+Czy jest to opłacalne? Kompletnie nie. Dużo taniej wyszło by nas zakupienie automatu, poczekanie kilku miesięcy, i cieszenie się grą. Ilość czasu, materiałów, nerwów, kombinowania, nie może być w żaden sposób zmierzona wartością pieniądza. To, czego nauczyliśmy się podczas naszej przygody z Waccą jest bezcenne, i otworzyło nam furtki do kolejnych projektów. Pokazało, że jeśli podejdzie się do rzeczy odpowiednio, to domowy “kontroler” nie musi wyglądać jak domowy kontroler. Nauczyliśmy się także, że umiemy ze sobą współpracować. Ja w żadnym wypadku nie znam się tak dobrze jak Dait na elektronice i programowaniu, za to byłam w stanie pomóc ze wszystkim CAD-related, zamawianiem i realizacją rzeczy do obudowy, malowaniem, researchem, no te typowo babskie (xD) zadania, i bez pomocy osoby z doświadczeniem “kabelkowo - programistycznym” nie dałabym rady tego poskładać.
 
 Czy podjęlibyśmy się  czegoś takiego jeszcze raz? 
-Potrzymajcie nam ~~piwo~~ monsterka.
+*Potrzymajcie nam ~~piwo~~ monsterka*.
 
 <center>
 <div markdown="1">
