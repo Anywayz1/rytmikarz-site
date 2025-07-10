@@ -26,9 +26,12 @@ Rytmikarz Szczeciński to grupka graczy zapaleńców, którzy po wielu latach sa
 - ~~przejmujemy kontrolę nad konwentami~~
 - zapewniamy, że w Szczecinie ktoś gra w rytmiki
 
-## Obecny highlight
+## Obecne highlighty
 
-- [sala na Mizukonie 2024 (zawiera posłowie)](/wydarzenia/mizukon-2024)
+- [BĘDZIEMY NA MIZUKONIE 2025](/wydarzenia/mizukon-2025)
+- [będziemy na Hikari 2025](/wydarzenia/hikari-2025)
+- [będziemy na \<nazwa konwentu\>](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+- [Wacca na wagę](/druciarstwo/wacca-na-wage) (bo Alis z Daitem spisali to w końcu w lutym, ale nikt nie dodał linku tutaj xD)
 
 ## Pozostałe highlighty
 
