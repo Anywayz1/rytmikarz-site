@@ -1,4 +1,8 @@
 ---
+title: Zasady turnieju Sound Voltex
+author: Rytmikarz Szczeciński
+abstract: na razie na Mizukonie 2025 ale zobaczymy jak to będzie ;)
+excerpt: na razie na Mizukonie 2025 ale zobaczymy jak to będzie ;)
 toc: false
 permalink: /sdvx-zasady
 ---
