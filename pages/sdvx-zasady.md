@@ -1,15 +1,15 @@
 ---
 title: Zasady turnieju Sound Voltex
 author: Rytmikarz Szczeciński
-abstract: na razie na Mizukonie 2025 ale zobaczymy jak to będzie ;)
-excerpt: na razie na Mizukonie 2025 ale zobaczymy jak to będzie ;)
+abstract: Powrót turnieju z Mizukonu, tym razem na Hikari ;)
+excerpt: Powrót turnieju z Mizukonu, tym razem na Hikari ;)
 toc: false
 permalink: /sdvx-zasady
 ---
 
 # Zasady turnieju Sound Voltex
 
-*na razie na Mizukonie 2025 ale zobaczymy jak to będzie ;)*
+*Powrót turnieju z Mizukonu, tym razem na Hikari ;)*
 
 ------
 
@@ -17,13 +17,13 @@ permalink: /sdvx-zasady
 
 ### **1. Informacje ogólne**
 
-1. Turniej Sound Voltex odbywa się podczas konwentu “Mizukon”, w sali Rytmikarza Szczecińskiego.
+1. Turniej Sound Voltex odbywa się podczas konwentu “Hikari”, w sali Rytmikarza Szczecińskiego.
 2. Udział w turnieju jest bezpłatny i otwarty dla wszystkich uczestników konwentu.
 3. Udział w turnieju jest równoznaczny z akceptacją niniejszego regulaminu.
-4. Turniej zaczyna się w piątek o godzinie **19:00,** zakończenie planowane jest na godzinę **22:00**.
-5. Organizatorzy zastrzegają sobie prawo do wydłużenia czasu turnieju w przypadku nierozstrzygnięcia wyniku przed godziną **22:00**.
+4. Turniej zaczyna się w sobotę o godzinie **16:00,** zakończenie planowane jest na godzinę **20:00**.
+5. Organizatorzy zastrzegają sobie prawo do wydłużenia czasu turnieju w przypadku nierozstrzygnięcia wyniku przed godziną **20:00**.
 6. Organizatorzy zastrzegają sobie prawo do wprowadzenia zmian w regulaminie w wyjątkowych przypadkach, z zachowaniem zasad fair play.
-7. Przebieg turnieju można śledzić na stronie **Challonge.com**, link zostanie udostępniony na Discordzie Rytmikarza w kanale #turniej-sdvx-mizu2025.
+7. Przebieg turnieju można śledzić na stronie **Challonge.com**, link zostanie udostępniony na Discordzie Rytmikarza w kanale #turniej-sdvx-hikari2025.
 
 
 
@@ -33,12 +33,12 @@ permalink: /sdvx-zasady
 
 ### **2. Eliminacje**
 
-1. Eliminacje trwają od rozpoczęcia konwentu do godziny **18:45** w piątek.
+1. Eliminacje trwają od rozpoczęcia konwentu do godziny **15:45** w sobotę.
 2. Aby wziąć udział w turnieju, należy zagrać wskazaną piosenkę eliminacyjną i wykonać **zdjęcie wyniku**.
-3. Piosenka eliminacyjna zostanie ogłoszona w dniu konwentu na kanale #turniej-sdvx-mizu2025 w przypiętej wiadomości.
-4. Zdjęcie wyniku należy opublikować na serwerze Discord w kanale #turniej-sdvx-mizu2025.
+3. Piosenka eliminacyjna zostanie ogłoszona w dniu konwentu na kanale #turniej-sdvx-hikari2025 w przypiętej wiadomości.
+4. Zdjęcie wyniku należy opublikować na serwerze Discord w kanale #turniej-sdvx-hikari2025.
 5. Maksymalnie **16 uczestników z najwyższym wynikiem** kwalifikuje się do fazy turniejowej.
-6. Lista zakwalifikowanych osób zostanie opublikowana na kanale #turniej-sdvx-mizu2025 oraz w arkuszu w przypiętej wiadomości.
+6. Lista zakwalifikowanych osób zostanie opublikowana na kanale #turniej-sdvx-hikari2025 oraz w arkuszu w przypiętej wiadomości.
 
 
 
@@ -57,13 +57,7 @@ W zależności od liczby zakwalifikowanych uczestników obowiązują trzy możli
 3. Punkty są sumowane i decydują o końcowej klasyfikacji.
 4. W przypadku remisu o miejscach decyduje mecz dogrywkowy w formacie BO3.
 
-#### **2. 4–8 uczestników –** **Drabinka Double Elimination**
-
-1. Przegrana pierwszego meczu przenosi do drabinki przegranych.
-2. Druga porażka eliminuje z turnieju.
-3. Turniej rozgrywany jest systemem BO3 – wygranie dwóch piosenek daje awans do kolejnej rundy.
-
-#### **3. 9–16 uczestników –** **Drabinka Single Elimination**
+#### **2. 4–16 uczestników –** **Drabinka Single Elimination**
 
 1. Przegrany odpada z turnieju.
 2. Turniej rozgrywany jest systemem BO3 – wygranie dwóch piosenek daje awans do kolejnej rundy.
@@ -124,4 +118,4 @@ W zależności od liczby zakwalifikowanych uczestników obowiązują trzy możli
 
 ### **8. Kontakt i pytania**
 
-1. Wszelkie pytania dotyczące przebiegu turnieju można kierować do organizatorów na serwerze Discord, w kanale #turniej-sdvx-mizu2025.
+1. Wszelkie pytania dotyczące przebiegu turnieju można kierować do organizatorów na serwerze Discord, w kanale #turniej-sdvx-hikari2025.
